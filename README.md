@@ -2,7 +2,7 @@
 
 #### Software Requirements
 
-1. [VS Code] (https://code.visualstudio.com/download)
+1. [VS Code](https://code.visualstudio.com/download)
 2. [GitHub Account](https://github.com)
 3. [Heroku Account](https://dashboard.heroku.com/login)
 4. [GIT CLI](https://git-scm.com/downloads)
@@ -54,7 +54,7 @@ git remote -v
 
 To set up CI/CD pipeline in Heroku we need 3 information . Heroku api key is from top left account setting
 1. HEROKU_EMAIL = rubystanley@gmail.com
-2. HEROKU_API_KEY =8d629639-ac60-457b-895f-fab027c20af0
+2. HEROKU_API_KEY =<>
 3. HEROKU_APP_NAME=ml-regression-app86
 
 BUILD DOCKER IMAGE
