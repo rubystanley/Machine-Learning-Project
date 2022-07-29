@@ -13,7 +13,7 @@ Creating conda environment
 conda create -p venv python==3.7 -y
 ...
 Activate conda environment
-conda activate venv-
+conda activate venv/
 
 Create requirements.txt file
 pip install -r requirements.txt
@@ -92,3 +92,10 @@ docker stop <container_id>
 ...
 python setup.py install
 ...
+...
+Install ipykernel
+
+pip install ipykernel
+Data Drift: When your datset stats gets change we call it as data drift
+
+Write a function to get training file path from artifact dir
